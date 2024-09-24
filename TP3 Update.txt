@@ -1,0 +1,7 @@
+Just some quick updates:
+
+Added a manual zoom out feature with the magnifying glass icon.
+Changed color pallete.
+Organized the code - also included citations at the top.
+Readme file is included in the zip.
+Also, removed bugs where the screen would be stuck after clicking selection.
